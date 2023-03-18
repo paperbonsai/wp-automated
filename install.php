@@ -1,5 +1,4 @@
 <?php
-echo "<pre>";
 echo '<span style="color:green">Extracting WordPress...</span>' . PHP_EOL;
 
 // Download the latest WordPress ZIP file
